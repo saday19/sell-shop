@@ -1,0 +1,8 @@
+main: com.mcf.sellshop.EnableSellShop
+name: SellShop
+version: 1.0.0
+author: Saday
+commands:
+  sell:
+    description: Opens the sell shop inventory
+    aliases: [sellshop, sellitems]
